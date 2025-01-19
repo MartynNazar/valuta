@@ -1,6 +1,7 @@
 import requests
 
 
+
 valute_lod = {
     "Австралійський долар":"AUD",
     "Канадський долар":"CAD",
